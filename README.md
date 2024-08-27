@@ -1,7 +1,7 @@
-Name: rd_scripts
+Name: **rd_scripts**
 Version: 20170108
 
-Description:
+**Description**:
 --  ffa: free for all
     All of my scripts on this site are free for you to use. Unfortunately, 
     I have less time these days to develop and support them, so they are 
@@ -20,13 +20,13 @@ Description:
     #devforacause
 
 
-Legal stuff:
+_Legal stuff:
 This bundle of scripts is provided "as is," without warranty of any kind, 
 expressed or implied. In no event shall the author be held liable for any
 damages arising in any way from the use of these scripts.
 
 In other words, I'm just trying to share knowledge with and help out my
-fellow AE script heads, so don't blame me if my code doesn't rate. :-)
+fellow AE script heads, so don't blame me if my code doesn't rate. :-)_
 
 Copyright (c) 2005-2017 redefinery (Jeffrey R. Almasol). All rights reserved.
 check it: www.redefinery.com
